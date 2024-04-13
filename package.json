@@ -1,0 +1,22 @@
+{
+  "name": "cs3200-hw6",
+  "version": "1.0.0",
+  "description": "Redis/Mongo Queries for Homework 6 of Spring 2024 CS 3200 Database Design",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.0.0",
+    "eslint-config-prettier": "^9.1.0",
+    "prettier": "^3.2.5"
+  },
+  "dependencies": {
+    "mongodb": "^6.5.0",
+    "redis": "^4.6.13"
+  }
+}
